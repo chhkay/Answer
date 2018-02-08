@@ -9,7 +9,7 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/axgle/mahonia"
-	"github.com/henson/Answer/util"
+	"github.com/chhkay/Answer/util"
 	"github.com/ngaut/log"
 	"github.com/yanyiwu/gojieba"
 )

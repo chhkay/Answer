@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/henson/Answer/device"
-	"github.com/henson/Answer/util"
+	"github.com/chhkay/Answer/device"
+	"github.com/chhkay/Answer/util"
 	"github.com/ngaut/log"
 )
 

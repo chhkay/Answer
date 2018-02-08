@@ -1,8 +1,8 @@
 package Answer
 
 import (
-	"github.com/henson/Answer/ocr"
-	"github.com/henson/Answer/util"
+	"github.com/chhkay/Answer/ocr"
+	"github.com/chhkay/Answer/util"
 )
 
 //Ocr ocr 识别图片文字

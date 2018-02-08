@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/henson/Answer/util"
+	"github.com/chhkay/Answer/util"
 )
 
 //Baidu baidu ocr api

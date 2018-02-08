@@ -1,6 +1,6 @@
 package main
 
-import "github.com/henson/Answer"
+import "github.com/chhkay/Answer"
 
 func main() {
 	Answer.Run()

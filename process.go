@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/henson/Answer/api"
-	"github.com/henson/Answer/util"
+	"github.com/chhkay/Answer/api"
+	"github.com/chhkay/Answer/util"
 	"github.com/ngaut/log"
 	termbox "github.com/nsf/termbox-go"
 )

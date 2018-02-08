@@ -3,8 +3,8 @@ package Answer
 import (
 	"image"
 
-	"github.com/henson/Answer/device"
-	"github.com/henson/Answer/util"
+	"github.com/chhkay/Answer/device"
+	"github.com/chhkay/Answer/util"
 )
 
 //Screenshot 获取屏幕截图

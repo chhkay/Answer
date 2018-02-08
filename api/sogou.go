@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/henson/Answer/util"
+	"github.com/chhkay/Answer/util"
 	"github.com/parnurzeal/gorequest"
 )
 
